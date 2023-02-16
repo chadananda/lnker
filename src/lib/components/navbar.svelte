@@ -7,6 +7,8 @@
        <svg xmlns="http://www.w3.org/2000/svg" class="h-5 w-5" fill="none" viewBox="0 0 24 24" stroke="currentColor"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M4 6h16M4 12h8m-8 6h16" /></svg>
      </label>
      <ul class="menu menu-compact dropdown-content mt-3 p-2 shadow bg-base-100 rounded-box w-52 shadow-md" id="dropmenu" tabindex="0">
+      <li><a href="/"><img src="/linker.svg" alt="app icon" class="w-5 m-0" /><b>Lnker.com</b></a></li>
+      <li class="divider"></li>
        <li><a href="/auth/dashboard">Dashboard</a></li>
        <li><a href="/auth/tutorials">Tutorials</a></li>
        <li><a href="/auth/account">My Account</a></li>
